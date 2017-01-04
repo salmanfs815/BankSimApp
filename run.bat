@@ -1,0 +1,1 @@
+bsApp < simulation.in > myResult.out
